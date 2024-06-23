@@ -6,7 +6,11 @@ tags:
   - Hugo
   - Wowchemy
   - Markdown
+  - Large Language Models
+featured: true
 ---
+
+Flexible and powerful data analysis library.
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
