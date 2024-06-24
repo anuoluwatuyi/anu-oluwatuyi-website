@@ -348,6 +348,6 @@ awards:
 
 ## About Me
 
-I’m currently pursuing a Master's in Human and Social Data Science at the University of Sussex while working as a Data Scientist at Moove. With over 7 years of experience in data design, analysis, and machine learning, I have a knack for developing innovative solutions to tough problems. I thrive in leading technical projects and enjoy collaborating with cross-functional teams to meet business goals.
+I’m currently pursuing a [Master's in Human and Social Data Science at the University of Sussex ](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc) while working as a [Data Scientist at Moove](https://www.moove.io). With over 7 years of experience in data design, analysis, and machine learning, I have a knack for developing innovative solutions to tough problems. I thrive in leading technical projects and enjoy collaborating with cross-functional teams to meet business goals.
 
 My expertise is in developing and deploying machine learning models, particularly in natural language processing. I’m passionate about using machine learning to enhance user experiences and drive business impact. Throughout my career, I’ve consistently delivered high-quality results and improved processes through automation and data-driven insights.
