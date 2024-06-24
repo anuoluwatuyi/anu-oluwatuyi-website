@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: emerald
-  font: 'roboto-mono'
+  font: "serif"
 
 # SEO
 marketing:
@@ -34,10 +34,13 @@ header:
     blox: "navbar"
     align: right
     fixed_to_top: true
+    highlight_active_link: true
     show_search: true
     show_theme_chooser: true
+    showlogo: true
     logo:
       text: "Anu Oluwatuyi"
+      # icon: icon.png
 
 # Site footer
 footer:
@@ -45,9 +48,9 @@ footer:
     notice: '© {year} Anu Oluwatuyi'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 locale:
@@ -56,6 +59,20 @@ locale:
 
 # Site features
 features:
+  search:
+    provider: hugo-blox
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  avatar:
+    gravatar: false
+    shape: circle
+  map:
+    provider: mapnik
+    api_key: ''
+    zoom: 15
   math:
     enable: false
   privacy_pack:
