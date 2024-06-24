@@ -66,7 +66,8 @@ education:
     date_start: 2023-09-01
     date_end: 2024-09-30
     summary: |
-      Thesis on _Automated Classification of HS Codes in Nigerian Pidgin_. Supervised by [Prof Julie Weeds](https://sussex.ac.uk). 
+      Thesis on _Automated Classification of HS Codes in Nigerian Pidgin_. <br>
+      Supervised by <a href="https://profiles.sussex.ac.uk/p116624-julie-weeds" target="_blank">Prof. Julie Weeds</a>. 
 
       Courses included:
       - Machine Learning
@@ -78,7 +79,8 @@ education:
     date_start: 2012-01-01
     date_end: 2017-12-31
     summary: |
-      Feature engineering thesis on _Identifying Features Influencing Adoption of Land Enhancing Technologies among Arable Farmers_ using Probit and Tobit regression models.
+      Feature engineering thesis on _Identifying Factors Influencing Adoption of Land Enhancing Technologies among Arable Farmers_ using Probit and Tobit regression models.<br>
+      Supervised by <a href="https://aec.oauife.edu.ng/index.php/staff/26-mr-a-d-kehinde" target="_blank">Dr. Kehinde A.D</a>.
 
       Final Grade: 4.36/5.0
       
@@ -348,6 +350,6 @@ awards:
 
 ## About Me
 
-I’m currently pursuing a [Master's in Human and Social Data Science at the University of Sussex ](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc) while working as a [Data Scientist at Moove](https://www.moove.io). With over 7 years of experience in data design, analysis, and machine learning, I have a knack for developing innovative solutions to tough problems. I thrive in leading technical projects and enjoy collaborating with cross-functional teams to meet business goals.
+I’m currently pursuing a <a href="https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc" target="_blank">Master's in Human and Social Data Science at the University of Sussex</a> while working as a Data Scientist at <a href="https://www.moove.io" target="_blank">Moove</a>. With over 7 years of experience in data design, analysis, and machine learning, I have a knack for developing innovative solutions to tough problems. I thrive in leading technical projects and enjoy collaborating with cross-functional teams to meet business goals.
 
 My expertise is in developing and deploying machine learning models, particularly in natural language processing. I’m passionate about using machine learning to enhance user experiences and drive business impact. Throughout my career, I’ve consistently delivered high-quality results and improved processes through automation and data-driven insights.
