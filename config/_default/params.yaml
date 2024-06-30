@@ -40,7 +40,7 @@ header:
     showlogo: true
     logo:
       text: "Anu Oluwatuyi"
-      # icon: icon.png
+      icon: icon.png
 
 # Site footer
 footer:
@@ -67,7 +67,7 @@ features:
       index_name: ''
       show_logo: false
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   map:
     provider: mapnik

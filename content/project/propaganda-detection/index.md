@@ -1,6 +1,6 @@
 ---
 title: Propaganda Detection and Categorisation
-date: 2024-06-28
+date: 2024-05-28
 external_link: https://github.com/anuoluwatuyi
 
 tags:

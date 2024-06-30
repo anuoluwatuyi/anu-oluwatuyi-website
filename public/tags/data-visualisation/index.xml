@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/data-visualisation/</link>
       <atom:link href="http://localhost:1313/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualisation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu9cd04c5c26002591f28eaa1b0958d168_730124_512x512_fill_lanczos_center_3.png</url>
       <title>Data Visualisation</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Forecasting Crop Export Values</title>
       <link>http://localhost:1313/project/forecast-crop-production/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/forecast-crop-production/</guid>
       <description>&lt;p&gt;We present the development and evaluation of a Multilayer Perceptron (MLP) model designed to forecast the export value of crop products for a geographical region three years into the future. The model was trained on a dataset comprising historical crop export values along with various climatic and agricultural factors. Our methodology includes preprocessing the data, selecting relevant features, and training the MLP model to generate predictions. The model’s performance is evaluated using the Mean Squared Error (MSE) and the coefficient of determination (R2). The results indicate that the model performs moderately well for the third year predictions, with R2 value of 0.7009.&lt;/p&gt;</description>
     </item>
