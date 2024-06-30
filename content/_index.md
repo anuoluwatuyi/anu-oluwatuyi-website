@@ -36,8 +36,8 @@ sections:
       title: 'Current Research 🔬'
       subtitle: ''
       text: |-
-        <div style="padding: 20px;">
-        My research focuses on <strong> automating the classification of parcel descriptions in Nigerian Pidgin into their HS Codes </strong>. This project aims to improve the accuracy of categorizing parcels from the Nigerian market, through addressing the unique linguistic challenges of Nigerian Pidgin.
+        <div style="padding: 20px; font-size: 14px">
+        My research focuses on <strong> automating the classification of parcel descriptions in Nigerian Pidgin into their HS Codes.</strong> This project aims to improve the accuracy of categorizing parcels from the Nigerian market, through addressing the unique linguistic challenges of Nigerian Pidgin.
 
         I am also deeply passionate about advancing research on underrepresented languages, particularly Nigerian Pidgin. I explore advanced machine learning techniques to enhance the processing and understanding of these languages, contributing to their preservation and better integration into modern technology.
 
