@@ -36,9 +36,18 @@
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Business Report</title>
+      <link>http://localhost:1313/project/business-report/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/business-report/</guid>
+      <description>&lt;p&gt;Business report built on streamlit.&lt;/p&gt;
+&lt;p&gt;To be uploaded soon&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -271,7 +280,7 @@
 
 
 
-&lt;div id=&#34;chart-364519872&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-256749831&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -289,7 +298,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-364519872&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-256749831&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

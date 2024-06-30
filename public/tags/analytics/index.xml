@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics | Anu Oluwatuyi</title>
+    <link>http://localhost:1313/tags/analytics/</link>
+      <atom:link href="http://localhost:1313/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Analytics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu9cd04c5c26002591f28eaa1b0958d168_730124_512x512_fill_lanczos_center_3.png</url>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
+    </image>
+    
+    <item>
+      <title>Business Report</title>
+      <link>http://localhost:1313/project/business-report/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/business-report/</guid>
+      <description>&lt;p&gt;Business report built on streamlit.&lt;/p&gt;
+&lt;p&gt;To be uploaded soon&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
