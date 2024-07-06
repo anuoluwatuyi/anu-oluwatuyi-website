@@ -1,7 +1,7 @@
 ---
 title: Propaganda Detection and Categorisation
 date: 2024-05-28
-external_link: https://github.com/anuoluwatuyi
+external_link: https://github.com/anuoluwatuyi/propaganda-detection-3
 
 tags:
   - NLP
